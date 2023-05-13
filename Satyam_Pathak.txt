@@ -1,3 +1,0 @@
-Hi, this this Satyam Pathak here I am student at MIT ADT studying B.Tech CSE,
-My skill set include - C, C++, Dart(Flutter), Java, Python, HTML, CSS
-currently learning linux and AWS
